@@ -45,7 +45,3 @@ http://v0-jobshield2.vercel.app
 | AI Model      | Python (Flask), Scikit-learn/NLP | |
 | Deployment    | Vercel                           |
 
----
-
-## 📁 Project Structure
-
