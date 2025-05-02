@@ -47,5 +47,4 @@ http://v0-jobshield2.vercel.app
 
 ---
 
-## 📁 Project Structure
 
