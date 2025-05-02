@@ -5,7 +5,7 @@ Job Shield is a modern full-stack job platform that protects users from fake job
 ---
 
 ## 🚀 Live Demo
-https://v0-job-shield-website-design.vercel.app/
+http://v0-jobshield2.vercel.app
 
 ---
 
